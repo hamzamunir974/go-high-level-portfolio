@@ -13,8 +13,8 @@ This portfolio is structured into [Number] core categories, each with real setup
 1️⃣ Branded GHL login at `[app.lahorebmart.com]`
 
 📸 Proof:
-<img width="960" alt="My White-Label Login Page" src="[<img width="1440" height="900" alt="GHL1" src="https://github.com/user-attachments/assets/fc70496b-38c7-4f8a-9b49-6f2e84b72c60" />
-]" />
+<img width="1440" height="900" alt="GHL Login Screen" src="https://github.com/user-attachments/assets/fc70496b-38c7-4f8a-9b49-6f2e84b72c60" />
+
 
 2️⃣ White-label customization `[Your details, e.g., Custom Logo, Favicon, Brand Colors]`
 
