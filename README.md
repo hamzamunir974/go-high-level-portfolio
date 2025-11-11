@@ -10,10 +10,11 @@ This portfolio is structured into [Number] core categories, each with real setup
 ![Laptop with evolving data visuals](https://media.giphy.com/media/l4pTfx2qLkXgHXzKU/giphy.gif)
 ## 1. Agency Account Setup (White-Label Foundation)
 
-1️⃣ Branded GHL login at `[Your-Custom-Domain.com]`
+1️⃣ Branded GHL login at `[app.lahorebmart.com]`
 
 📸 Proof:
-<img width="960" alt="My White-Label Login Page" src="[Paste Your Image URL Here]" />
+<img width="960" alt="My White-Label Login Page" src="[<img width="1440" height="900" alt="GHL1" src="https://github.com/user-attachments/assets/fc70496b-38c7-4f8a-9b49-6f2e84b72c60" />
+]" />
 
 2️⃣ White-label customization `[Your details, e.g., Custom Logo, Favicon, Brand Colors]`
 
