@@ -1,4 +1,4 @@
-# 🏆 [Your Title, e.g., My Go High Level Portfolio]
+# 🏆 My Go High Level Portfolio
 
 Welcome to my Go High Level Portfolio.
 
