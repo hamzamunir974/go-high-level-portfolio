@@ -19,12 +19,8 @@ This portfolio is structured into [Number] core categories, each with real setup
 2️⃣ White-label customization `[Your details, e.g., Custom Logo, Favicon, Brand Colors]`
 
 📸 Proof:
-<img width="960" alt="My White-Label Dashboard" src="[Paste Your Image URL Here]" />
+<img width="1440" height="900" alt="White Label" src="https://github.com/user-attachments/assets/447ca5ac-5e23-428f-912a-d4e5eddae8b3" />
 
-3️⃣ Add custom login page 
-
-📸 Proof:
-<img width="960" alt="Custom Login Page Proof" src="[Paste Your Image URL Here]" />
 
 ![Digital network flowing](https://media.giphy.com/media/l4FB6yJ4m7J0f9kI8/giphy.gif)
 
