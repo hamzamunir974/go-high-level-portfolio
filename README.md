@@ -72,6 +72,7 @@ This collection demonstrates my ability to:
 
 ## 📖 Getting Started
 
+### For Users: Importing Workflows
 To use any workflow or chatbot from this portfolio:
 
 1. Navigate to the specific project folder
@@ -80,6 +81,9 @@ To use any workflow or chatbot from this portfolio:
 4. Import it into your n8n instance
 5. Configure credentials and settings as documented
 6. Test and deploy!
+
+### For Contributors: Adding Projects
+Want to add your own projects to this portfolio? Check out the [Quick Start Guide](./QUICKSTART.md) for step-by-step instructions!
 
 ## 📬 Contact
 
