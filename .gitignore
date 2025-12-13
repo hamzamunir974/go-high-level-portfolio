@@ -1,0 +1,27 @@
+# Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+desktop.ini
+
+# Large video files (optional - comment out if you want to commit videos)
+# *.mp4
+# *.mov
+# *.avi
+
+# Compressed files
+# *.zip
+# *.rar
+
+# Log files
+*.log
